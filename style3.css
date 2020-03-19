@@ -1,0 +1,32 @@
+h1{float:left;
+color:#002244;
+font-size:90px;
+font-family:'Courier New', Courier, monospace;
+}
+h2{float:left;
+color:#002244;
+font-size:60px;
+font-family:'Courier New', Courier, monospace;
+}
+h4{float:left;
+    
+    font-size:20px;
+    font-family:'Courier New', Courier, monospace;
+    }
+p{
+
+font-size:20px;
+font-family:'Courier New', Courier, monospace;
+}
+li{
+color:black;
+font-size:20px;
+font-family:'Courier New', Courier, monospace;   
+}
+img{
+    float:right;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+body {background-color:#e0ebeb;}
